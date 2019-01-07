@@ -1,0 +1,5 @@
+body {
+  background: #fff; }
+  body a {
+    color: #000;
+    display: block; }
